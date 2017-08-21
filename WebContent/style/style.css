@@ -1,0 +1,38 @@
+@CHARSET "UTF-8";
+
+div.logo{
+	width:100px;
+	
+}
+
+div.header{
+  background:#66E0C2;
+  text-align:center;
+  height:80px;
+  padding-top:20px;
+}
+span.headerSpan{
+  font-size:40px;
+  font-color:#003D2E;
+ 	
+}
+body {
+	margin-bottom: 50px;
+}
+.images {
+	margin-left: auto;
+	margin-right: auto;
+	width: 800px;
+}
+
+.footer{
+	position: fixed;
+	padding-top:15px;
+	text-align:center;
+	height: 50px;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	margin-bottom: 0px;
+}
+
